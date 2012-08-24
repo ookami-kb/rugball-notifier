@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Rugball Notifier</string>
+    <string name="title_activity_main">Rugball Notifier</string>
+    
+    <string name="no_sms">Ни одной смски</string>
+
+</resources>
